@@ -1,0 +1,8 @@
+,,correlation,correlation,correlation,correlation,mean_ratio,mean_ratio,mean_ratio,mean_ratio,variance_ratio,variance_ratio,variance_ratio,variance_ratio
+model,,GRU-mask0.5,IUH-PIGRU,IUH-PILSTM,LSTM-mask0.5,GRU-mask0.5,IUH-PIGRU,IUH-PILSTM,LSTM-mask0.5,GRU-mask0.5,IUH-PIGRU,IUH-PILSTM,LSTM-mask0.5
+forecast_period,forecast_period_label,,,,,,,,,,,,
+12,12h,0.8409,0.8517,0.83,0.8366,0.8601,0.9744,0.9159,0.8573,0.6632,0.8396,0.7369,0.6587
+15,15h,0.7875,0.8444,0.8426,0.813,0.9376,0.9504,0.9418,0.906,0.7086,0.806,0.8004,0.7033
+18,18h,0.7812,0.8167,0.8061,0.802,1.0137,0.9385,0.9322,0.9306,0.7686,0.7903,0.7325,0.7329
+21,21h,0.7602,0.8017,0.8026,0.7931,0.9234,0.9467,0.925,0.8699,0.6635,0.8142,0.7103,0.6396
+24,24h,0.7262,0.753,0.7665,0.7314,0.857,0.887,0.8873,0.8864,0.5857,0.7656,0.6804,0.6657
